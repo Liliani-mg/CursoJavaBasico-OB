@@ -104,4 +104,5 @@ class Alumno implements Serializable{
     HashMap<String, Double> notas = new HashMap<>();
     public Alumno() {
     }
+
 }
